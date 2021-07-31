@@ -2,7 +2,7 @@
 
 ¡Hola! 👋
 
-Actualmente estoy formándome para ser desarrollador front-end. Aquí encontraras todos los proyectos en los que trabajo actualmente o trabajé.
+Actualmente estoy formándome para ser desarrollador front-end. Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado.
 Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript,</strong> y me encuentro ampliando conocimientos en <strong>ReactJs</strong> utilizo frameworks como <strong>Bootstrap</strong> y manejo de <strong>Git/Github.</strong>
 
 # 📫 Ponte en contacto conmigo
