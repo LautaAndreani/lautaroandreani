@@ -1,9 +1,12 @@
-![separate](https://user-images.githubusercontent.com/79154442/127740361-888d74c6-a163-41ec-9fac-51f38e64822d.jpg)
+![separate](https://user-images.githubusercontent.com/79154442/127741559-4987b107-bb94-4984-8f74-693ad75c4ea4.jpg)
+
 
 ¡Hola! 👋
 
 Actualmente estoy formándome para ser desarrollador front-end. Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado.
-Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript,</strong> y me encuentro ampliando conocimientos en <strong>ReactJs</strong> utilizo frameworks como <strong>Bootstrap</strong> y manejo de <strong>Git/Github.</strong>
+Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript,</strong> y me encuentro ampliando conocimientos en <strong>ReactJs</strong> utilizo frameworks como <strong>Bootstrap</strong> y manejo de <strong>Git/Github.</strong>![branch](https://user-images.githubusercontent.com/79154442/127741681-2d1898c1-3b2a-43e7-9143-0222137eb5ef.png)
+
+
 
 # Mis lenguajes más utilizados
 
