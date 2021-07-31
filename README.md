@@ -7,7 +7,7 @@ Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript
 
 # Contáctame
 
-<li>Web: lautaandreani.github.io/Portfolioweb/</li>
-<li>Linkedin: linkedin.com/in/lautaroandreani</li>
-<li>Gmail: lautaroandreani2016@gmail.com</li>
+<li>Web: <a href="lautaandreani.github.io/Portfolioweb/">lautaroandreani.me</a></li>
+<li>Linkedin: <a href="linkedin.com/in/lautaroandreani">linkedin.com/in/lautaroandreani</a></li>
+<li>Gmail: <a href="mailto:lautaroandreani2016@gmail.com">lautaroandreani2016@gmail.com</a></li>
 
