@@ -5,7 +5,7 @@
 Actualmente estoy formándome para ser desarrollador front-end. Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado.
 Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript,</strong> y me encuentro ampliando conocimientos en <strong>ReactJs</strong> utilizo frameworks como <strong>Bootstrap</strong> y manejo de <strong>Git/Github.</strong>
 
-# 📫 Ponte en contacto conmigo
+# 📫 Podes encontrarme en
 
 <li>Web: <a href="https://lautaandreani.github.io/Portfolioweb/">lautaandreani.github.io/Portfolioweb/</a></li>
 <li>Linkedin: <a href="https://www.linkedin.com/in/lautaroandreani" target="_blank">linkedin.com/in/lautaroandreani</a></li>
