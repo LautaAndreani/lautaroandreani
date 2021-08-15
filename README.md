@@ -10,7 +10,8 @@ Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript
 
 
 # Lenguajes y herramientas
-![html5](https://user-images.githubusercontent.com/79154442/129494998-a9470bf9-571b-4a36-bf09-2b2985c5f575.png)
+![html5](https://user-images.githubusercontent.com/79154442/129495019-acc55183-21a6-499a-a4b3-989bf2c42e8f.png)![css-3](https://user-images.githubusercontent.com/79154442/129495020-c5875d87-f42b-4706-84ec-b608bd5dd218.png)
+
 
 
 
