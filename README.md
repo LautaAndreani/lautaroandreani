@@ -1,4 +1,3 @@
-![html5](https://user-images.githubusercontent.com/79154442/129495028-59f90f94-705e-4f8c-91dd-b16e6a038846.png)
 ![separate](https://user-images.githubusercontent.com/79154442/127741559-4987b107-bb94-4984-8f74-693ad75c4ea4.jpg)
 
 
@@ -11,8 +10,8 @@ Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript
 
 
 # Lenguajes y herramientas
-![html5](https://user-images.githubusercontent.com/79154442/129495029-6151ef2d-cbc5-4486-a987-40cea4646a19.png)
-![css-3](https://user-images.githubusercontent.com/79154442/129495020-c5875d87-f42b-4706-84ec-b608bd5dd218.png)
+![html5](https://user-images.githubusercontent.com/79154442/129495029-6151ef2d-cbc5-4486-a987-40cea4646a19.png)![css-3](https://user-images.githubusercontent.com/79154442/129495020-c5875d87-f42b-4706-84ec-b608bd5dd218.png)![sass](https://user-images.githubusercontent.com/79154442/129495051-02bf30b9-1d75-4c4b-84bd-a3c374632f52.png)
+
 
 
 
