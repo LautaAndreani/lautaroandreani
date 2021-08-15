@@ -11,7 +11,7 @@ Los lenguajes y herramientas que utilizo son <strong>HTML, CSS, SASS, Javascript
 
 # Mis lenguajes más utilizados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact)](https://github.com/LautaAndreani)
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact)](https://github.com/LautaAndreani)
 
 
 
