@@ -1,4 +1,5 @@
-![separate](https://user-images.githubusercontent.com/79154442/127741559-4987b107-bb94-4984-8f74-693ad75c4ea4.jpg)
+![barpng](https://user-images.githubusercontent.com/79154442/137824292-a74c224b-17db-48ec-8a80-de981a78e51d.png)
+
 
 
 <strong>¡Hola!</strong> 👋
