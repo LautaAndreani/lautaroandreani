@@ -31,7 +31,7 @@ Mirá mis trabajos <a href="https://lautaandreani.github.io/Portfolioweb/">Aquí
 
 # 📫 Podes encontrarme en
 
-<li>Web: <a href="https://www.lautaroandreani.vercel.app">lautaandreani.github.io/Portfolioweb/</a></li>
+<li>Web: <a href="https://www.lautaroandreani.vercel.app">https://www.lautaroandreani.vercel.app</a></li>
 <li>Linkedin: <a href="https://www.linkedin.com/in/lautaroandreani" target="_blank">linkedin.com/in/lautaroandreani</a></li>
 <li>Gmail: <a href="mailto:lautaroandreani2016@gmail.com" target="_blank">lautaroandreani2016@gmail.com</a></li>
 
