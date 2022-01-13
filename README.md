@@ -5,7 +5,9 @@
 <strong>¡Hola!</strong> 👋
 
 Me llamo Lautaro, actualmente estoy formándome para ser desarrollador front-end. Aquí encontraras todos los proyectos en los que trabajo actualmente o he trabajado. El stack que utilizo en estos momentos es <strong>ReactJs, Firebase, ChakraUi</strong> y me encuentro ampliando conocimientos en <strong>NextJs y Typescript</strong>.
-Mirá mis trabajos <a href="https://lautaroandreani.vercel.app/">Aquí<a/>
+<br/> 
+<br/> 
+Mirá mis proyectos de una mánera más simple <a href="https://lautaroandreani.vercel.app/">Aquí<a/>
 
 
 
