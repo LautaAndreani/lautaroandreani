@@ -17,7 +17,7 @@ Mirá mis proyectos de una mánera más simple <a href="https://lautaroandreani.
 ![vitejs](https://user-images.githubusercontent.com/79154442/149329651-0369d205-9179-4569-b9be-2109b66c9db0.png)
   ![figma](https://user-images.githubusercontent.com/79154442/149330334-c9b70fe9-d253-4903-82ef-4605d0673b35.png)
   <br/>
-  Adentrandome en:
+  🌱 Adentrandome en:
   <br/>
   
   ![fire](https://user-images.githubusercontent.com/79154442/140981093-c6d80223-d0e3-41b6-94bf-4bfb446c80ad.png)
