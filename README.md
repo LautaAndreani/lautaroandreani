@@ -26,7 +26,7 @@ Mirá mis proyectos de una mánera más simple <a href="https://lautaroandreani.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact)](https://github.com/LautaAndreani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LautaAndreani&layout=compact&theme=dracula)](https://github.com/LautaAndreani)
 
 
 
