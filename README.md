@@ -17,6 +17,7 @@ Soy Lautaro, desarrollador <code>frontend</code>. Aquí encontraras todos los pr
 ![vitejs](https://user-images.githubusercontent.com/79154442/149329651-0369d205-9179-4569-b9be-2109b66c9db0.png)
   ![figma](https://user-images.githubusercontent.com/79154442/149330334-c9b70fe9-d253-4903-82ef-4605d0673b35.png)
   <br/>
+  <br/>
   🌱 Adentrandome en:
   <br/>
   
