@@ -12,7 +12,7 @@ Soy Lautaro, desarrollador <code>frontend</code>. Aquí encontraras todos los pr
 <br/> 
 
 
-# Lenguajes y herramientas que utilizo
+# Lenguajes y herramientas
 ![html5](https://user-images.githubusercontent.com/79154442/129495029-6151ef2d-cbc5-4486-a987-40cea4646a19.png) ![css-3](https://user-images.githubusercontent.com/79154442/129495020-c5875d87-f42b-4706-84ec-b608bd5dd218.png) ![bs](https://user-images.githubusercontent.com/79154442/129495172-26a76c85-408a-4d94-92e5-c2251e8ef0ca.png)  ![sass](https://user-images.githubusercontent.com/79154442/130335374-a6126eee-f103-4068-8376-a2bce6ce7c29.png) ![js](https://user-images.githubusercontent.com/79154442/129495190-46fafc59-880d-4377-8994-512b483ff667.png) ![react](https://user-images.githubusercontent.com/79154442/129495281-a98ae852-266b-4d89-8aa8-9f983875c0aa.png) ![git](https://user-images.githubusercontent.com/79154442/129495329-e3238e6f-02e3-41d1-8d08-14136880c389.png) ![github](https://user-images.githubusercontent.com/79154442/129495211-db5f6709-c135-4d2d-973f-e8326e5b3af0.png)  ![chakra](https://user-images.githubusercontent.com/79154442/149329648-4453ad9b-4e22-4d65-b498-da3b66c4d55c.png)
 ![vitejs](https://user-images.githubusercontent.com/79154442/149329651-0369d205-9179-4569-b9be-2109b66c9db0.png)
   ![figma](https://user-images.githubusercontent.com/79154442/149330334-c9b70fe9-d253-4903-82ef-4605d0673b35.png)
