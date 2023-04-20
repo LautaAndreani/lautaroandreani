@@ -43,7 +43,6 @@ Soy Lautaro, desarrollador <code>frontend</code>. Aquí encontraras todos los pr
 
 # 📫 Podes encontrarme en
 
-<li>Web: <a href="https://www.lautaroandreani.com/">https://www.lautaroandreani.com/</a></li>
-<li>Linkedin: <a href="https://www.linkedin.com/in/lautaroandreani" target="_blank">linkedin.com/in/lautaroandreani</a></li>
-<li>Gmail: <a href="mailto:lautaroandreani2016@gmail.com" target="_blank">lautaroandreani2016@gmail.com</a></li>
+- [Portfolio](https://lautaroandreani.com/)
+- [Linkedin](https://www.linkedin.com/in/lautaroandreani/]
 
