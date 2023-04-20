@@ -44,5 +44,5 @@ Soy Lautaro, desarrollador <code>frontend</code>. Aquí encontraras todos los pr
 # 📫 Podes encontrarme en
 
 - [Portfolio](https://lautaroandreani.com/)
-- [Linkedin](https://www.linkedin.com/in/lautaroandreani/]
+- [Linkedin](https://www.linkedin.com/in/lautaroandreani/)
 
