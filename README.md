@@ -1,12 +1,12 @@
 
 ![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
 
-## 👋Sobre mi:
+## 👋Sobre mí:
 
 - 🔭 Actualmente desempeñando un rol de Frontend developer en **Coderhouse**.
-- 🌱 Expandiendo mi conocimiento con **NextJS** y tecnologias de **Backend**.
+- 🌱 Expandiendo mi conocimiento con **NextJS** y tecnologías de **Backend**.
 - 📫 Puedes ponerte en contacto conmigo escribiendo a <a href="mailto:lautaroandreani2016@gmail.com">lautaroandreani2016@gmail.com</a>.
-- 🌎 O puedes visitar mi portafolio <a href="https://www.lautaroandreani.dev" target="_blank">lautaroandreani.dev</a>.
+- 🌎 O puedes visitar mi portfolio <a href="https://www.lautaroandreani.dev" target="_blank">lautaroandreani.dev</a>.
 
 ## ⚙ Tecnologias:
 
