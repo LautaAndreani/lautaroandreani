@@ -6,7 +6,7 @@
 - 🔭 Actualmente desempeñando un rol de Frontend developer en **Coderhouse**.
 - 🌱 Expandiendo mi conocimiento con **NextJS** y tecnologías de **Backend**.
 - 📫 Puedes ponerte en contacto conmigo escribiendo a <a href="mailto:lautaroandreani2016@gmail.com">lautaroandreani2016@gmail.com</a>.
-- 🌎 O puedes visitar mi portfolio <a href="https://www.lautaroandreani.dev" target="_blank">lautaroandreani.dev</a>.
+- 🌎 O puedes visitar mi portfolio <a href="https://lautaroandreani.dev/" target="_blank">lautaroandreani.dev</a>.
 
 ## ⚙ Tecnologias:
 
